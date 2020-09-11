@@ -1,8 +1,1 @@
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0029_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0034_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0040_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0044_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0103_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0109_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0113_352.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Michigan/blob/master/cam0129_352.jpg)
+
